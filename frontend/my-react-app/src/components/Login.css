@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Page Background */
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #d7f5d9, #a8e6a3);
+}
+
+/* Login Card */
+.login-card {
+  width: 350px;
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+
+/* Header */
+.login-header {
+  background: linear-gradient(45deg, #1b8f3c, #36c66a);
+  padding: 25px;
+  text-align: center;
+}
+
+.login-header h2 {
+  color: #fff;
+  font-weight: 600;
+}
+
+/* Form */
+.login-form {
+  padding: 30px 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+/* Inputs */
+.login-form input[type="text"],
+.login-form input[type="password"] {
+  padding: 12px 18px;
+  border-radius: 25px;
+  border: 1px solid #ddd;
+  outline: none;
+  transition: 0.3s;
+}
+
+/* Input Focus */
+.login-form input:focus {
+  border-color: #2e7d32;
+  box-shadow: 0 0 5px rgba(46, 125, 50, 0.4);
+}
+
+/* Options */
+.options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
+.options label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Forgot Password */
+.forgot {
+  color: #2e7d32;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.forgot:hover {
+  text-decoration: underline;
+}
+
+/* Login Button */
+button {
+  padding: 12px;
+  border: none;
+  border-radius: 25px;
+  background: linear-gradient(45deg, #2e7d32, #4caf50);
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Hover Effect */
+button:hover {
+  background: linear-gradient(45deg, #1b5e20, #43a047);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Disabled Button */
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Signup */
+.signup {
+  text-align: center;
+  font-size: 14px;
+}
+
+.signup span {
+  color: #2e7d32;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+/* Error Message */
+.error-message {
+  background-color: #fdecea;
+  color: #d32f2f;
+  padding: 10px 14px;
+  border-radius: 8px;
+  margin-bottom: 4px;
+  font-size: 13px;
+  border: 1px solid #f5c6cb;
+  text-align: center;
+}

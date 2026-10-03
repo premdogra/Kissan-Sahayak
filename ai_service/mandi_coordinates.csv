@@ -1,0 +1,152 @@
+State,District,Market,Latitude,Longitude
+Andhra Pradesh,Annamayya,Valmikipuram APMC,13.6573509,78.6974067
+Andhra Pradesh,Chittor,Madanapalli APMC,,
+Andhra Pradesh,West Godavari,Chintalapudi APMC,,
+Assam,Nagaon,Ambagan APMC,26.517897,92.854152
+Assam,Nagaon,Haibargaon APMC,26.3514459,92.6750092
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit) APMC,30.7334421,76.7797143
+Gujarat,Amreli,Babra APMC,21.8485451,71.3036656
+Gujarat,Amreli,Damnagar APMC,21.6950878,71.5160345
+Gujarat,Gir Somnath,Una APMC,20.8198898,71.0391641
+Gujarat,Rajkot,Dhoraji APMC,21.7220402,70.4443401
+Gujarat,Surat,Songadh APMC,,
+Gujarat,Surat,Songadh(Badarpada) APMC,,
+Gujarat,Surat,Songadh(Umrada) APMC,,
+Haryana,Gurgaon,Gurgaon APMC,28.4890874,77.0111572
+Haryana,Mahendragarh-Narnaul,Narnaul APMC,28.0438456,76.1062015
+Haryana,Panipat,Panipat APMC,29.3912753,76.9771675
+Haryana,Rewari,Kosli APMC,28.3921086,76.4501216
+Haryana,Rewari,Rewari APMC,28.1956468,76.6165179
+Haryana,Sonipat,Ganaur APMC,29.1378351,77.0202921
+Himachal Pradesh,Kangra,PMY Kangra,32.1031646,76.2723559
+Himachal Pradesh,Kangra,SMY Baijnath,32.053021,76.672197
+Himachal Pradesh,Kangra,SMY Jaisinghpur,31.9204318,76.5715224
+Himachal Pradesh,Kangra,SMY Nagrota Bagwan,32.0957729,76.3791619
+Himachal Pradesh,Mandi,SMY Takoli,31.7953469,77.1882359
+Himachal Pradesh,Shimla,SMY Rohroo,,
+Kerala,Alappuzha,Chengannur APMC,9.3182808,76.6085318
+Kerala,Alappuzha,Harippad APMC,9.2931789,76.4146872
+Kerala,Ernakulam,North Paravur APMC,10.1484083,76.2249185
+Kerala,Ernakulam,Thrippunithura APMC,9.9440256,76.3489858
+Kerala,Kannur,Payyannur APMC,12.1511877,75.256029
+Kerala,Kannur,Taliparamba APMC,12.0994756,75.4705736
+Kerala,Kollam,Kulathoopuzha VFPCK APMC,,
+Kerala,Kottayam,Pampady APMC,9.5656334,76.6443645
+Kerala,Malappuram,Kottakkal APMC,11.0004806,76.004758
+Kerala,Malappuram,Mankada VFPCK APMC,11.0188762,76.1759643
+Kerala,Pathanamthitta,Enadimangalam VFPCK APMC,9.134198,76.8112506
+Kerala,Thirssur,Karalam VFPCK APMC,,
+Kerala,Thirssur,Kodungalloor APMC,,
+Kerala,Thirssur,Thottippal VFPCK APMC,,
+Kerala,Wayanad,Pulpally APMC,11.7932652,76.1643871
+Madhya Pradesh,Badwani,Sendhwa(F&V) APMC,,
+Madhya Pradesh,Dhar,Badnawar APMC,23.0231263,75.2065
+Madhya Pradesh,Dhar,Manawar APMC,22.2299529,75.0815866
+Nagaland,Wokha,Baghty APMC,26.2593211,94.2045043
+Nagaland,Wokha,Wokha Town APMC,26.0962958,94.2544489
+Odisha,Boudh,Boudh APMC,20.8415619,84.3213321
+Odisha,Cuttack,Banki APMC,20.3924025,85.605338
+Odisha,Dhenkanal,Hindol APMC,20.6381058,85.2128553
+Punjab,Fazilka,Jalalabad APMC,30.6065977,74.2581087
+Punjab,Gurdaspur,Kalanaur APMC,32.012734,75.1495742
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur) APMC,,
+Punjab,Hoshiarpur,Mukerian APMC,31.94205,75.6121906
+Punjab,Hoshiarpur,Tanda Urmur APMC,,
+Punjab,Ludhiana,Doraha APMC,30.7988727,76.0372906
+Punjab,Ludhiana,Khanna APMC,30.700625,76.2220763
+Punjab,Ludhiana,Sahnewal APMC,30.8402061,75.983601
+Punjab,Ludhiana,Samrala APMC,30.8368764,76.1913755
+Punjab,Ludhiana,Ludhiana APMC,30.9090157,75.851601
+Punjab,Ludhiana,Ludhiana,30.9090157,75.851601
+Punjab,Moga,Baghapurana APMC,,
+Punjab,Moga,Nihal Singh Wala APMC,30.5896671,75.2805144
+Punjab,Mohali,Dera Bassi APMC,,
+Punjab,Mohali,Kharar APMC,30.7386307,76.6714383
+Punjab,Mohali,Kurali APMC,,
+Punjab,Patiala,Ghanaur APMC,30.3312684,76.6120004
+Punjab,Ropar (Rupnagar),Morinda APMC,30.9402947,76.5253425
+Punjab,Sangrur,Ahmedgarh APMC,,
+Punjab,Tarntaran,Bhikhiwind APMC,,
+Punjab,Tarntaran,Tarantaran APMC,,
+Rajasthan,Bikaner,Sridungargarh APMC,,
+Rajasthan,Chittorgarh,Kapasan APMC,24.8614365,74.3110046
+Rajasthan,Churu,Churu APMC,28.5,74.5
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,29.9319645,73.8723448
+Rajasthan,Hanumangarh,Rawatsar APMC,29.2631,74.4016
+Rajasthan,Rajsamand,Rajsamand APMC,25.0585825,73.8880816
+Rajasthan,Sanchore,Sanchore APMC,24.7533864,71.7720096
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,11.1357708,79.0723203
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,10.9660449,76.9636929
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,11.3059363,76.9356545
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,10.6588234,77.00873
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,,
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,,
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,10.9566067,76.9726023
+Tamil Nadu,Coimbatore,Udumalpet APMC,10.6574598,77.0617715
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,11.0253387,76.9051251
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),12.3070058,78.1853826
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,,
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,11.4551821,77.4350666
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,11.3380754,77.7075216
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,,
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),10.944238,78.1198773
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,10.9596041,78.0807797
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,10.8271678,79.6363084
+Tamil Nadu,Nagapattinam,Vedaranyam APMC,10.4279477,79.7489583
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),10.4279477,79.7489583
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,,
+Tamil Nadu,Namakkal,Tiruchengode APMC,11.3786608,77.8949223
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,10.5728878,79.0148767
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),10.2748695,78.5655361
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),11.8336719,77.9424303
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,11.4422457,78.4858502
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,10.9604108,79.3820861
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,10.8604181,79.235816
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,,
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,10.8455511,79.487069
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),12.9042201,78.9404409
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),,
+Tamil Nadu,Villupuram,Avalurpet APMC,,
+Tamil Nadu,Villupuram,Tindivanam APMC,12.2412041,79.6516822
+Tamil Nadu,Villupuram,Ulundurpettai APMC,,
+Telangana,Karimnagar,Huzzurabad APMC,,
+Telangana,Karimnagar,V.Saidapur APMC,18.1981597,79.3134862
+Telangana,Mahbubnagar,Sathupally APMC,,
+Telangana,Ranga Reddy,Chevella APMC,17.3062296,78.1370079
+Tripura,Dhalai,Gandacharra APMC,,
+Tripura,North Tripura,Dasda APMC,23.9181689,92.203005
+Tripura,West District,Kamalghat,,
+Uttar Pradesh,Amroha,Hasanpur APMC,28.7227817,78.2826224
+Uttar Pradesh,Badaun,Bisoli APMC,,
+Uttar Pradesh,Balrampur,Tulsipur APMC,27.5318766,82.4090082
+Uttar Pradesh,Bulandshahar,Gulavati APMC,,
+Uttar Pradesh,Etawah,Jasvantnagar APMC,,
+Uttar Pradesh,Hathras,Shadabad APMC,,
+Uttar Pradesh,Hathras,Sikandraraau APMC,,
+Uttar Pradesh,Shravasti,Payagpur APMC,,
+Uttarakhand,Haridwar,Haridwar Union APMC,,
+West Bengal,Darjeeling,Darjeeling APMC,27.0377554,88.263176
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,,
+West Bengal,Darjeeling,Siliguri APMC,26.7164127,88.4309916
+West Bengal,Medinipur(E),Kolaghat APMC,,
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,,
+West Bengal,Paschim Bardhaman,Durgapur APMC,23.5350475,87.3380425
+West Bengal,Purba Bardhaman,Burdwan APMC,23.2495714,87.8681751
+West Bengal,Uttar Dinajpur,Raiganj APMC,25.6271966,88.1317967
+Jammu and Kashmir,Anantnag,Kulgam,,
+Jammu and Kashmir,Badgam,Zaloosa-Chararishrief (F&V),,
+Jammu and Kashmir,Baramulla,Kanispora Baramulla (F&V),,
+Jammu and Kashmir,Baramulla,Nowpora,34.2107981,74.4449264
+Jammu and Kashmir,Jammu,Akhnoor,32.9019451,74.7347398
+Jammu and Kashmir,Jammu,Batote,33.1227262,75.3210211
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),32.6766223,74.8843514
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V) APMC,32.6766223,74.8843514
+Jammu and Kashmir,Jammu,Samba,32.5759118,75.1203446
+Jammu and Kashmir,Kathua,Kathua,32.3765524,75.5243044
+Jammu and Kashmir,Kupwara,HandwaraFV,,
+Jammu and Kashmir,Pulwama,Pulwama (F&V),33.8756947,74.9003129
+Jammu and Kashmir,Pulwama,Shopian,33.7209376,74.8352015
+Jammu and Kashmir,Rajouri,Rajouri (F&V),33.3772495,74.3132332
+Jammu and Kashmir,Srinagar,Parimpore,,
+Jammu and Kashmir,Udhampur,Reasi,33.0912325,74.8759611
+Jammu and Kashmir,Udhampur,Udhampur,32.9219726,75.1331482

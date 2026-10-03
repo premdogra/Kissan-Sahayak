@@ -1,0 +1,16 @@
+# Existing requirements
+fastapi
+uvicorn
+pymongo
+python-dotenv
+pandas
+numpy
+xgboost
+joblib
+geopy
+requests
+
+# New requirements for chatbot
+sarvamai
+websockets
+python-multipart

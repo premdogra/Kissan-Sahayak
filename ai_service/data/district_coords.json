@@ -1,0 +1,15 @@
+{
+    "Jammu": {"lat": 32.7266, "lon": 74.8570, "state": "Jammu and Kashmir"},
+    "Srinagar": {"lat": 34.0837, "lon": 74.7973, "state": "Jammu and Kashmir"},
+    "Ganganagar": {"lat": 29.9167, "lon": 73.8833, "state": "Rajasthan"},
+    "Hanumangarh": {"lat": 29.5818, "lon": 74.3294, "state": "Rajasthan"},
+    "Fazilka": {"lat": 30.4025, "lon": 74.0280, "state": "Punjab"},
+    "Moga": {"lat": 30.8225, "lon": 75.1686, "state": "Punjab"},
+    "Churu": {"lat": 28.2900, "lon": 74.9680, "state": "Rajasthan"},
+    "Udhampur": {"lat": 32.7310, "lon": 75.1423, "state": "Jammu and Kashmir"},
+    "Kathua": {"lat": 32.3862, "lon": 75.5183, "state": "Jammu and Kashmir"},
+    "Amritsar": {"lat": 31.6340, "lon": 74.8723, "state": "Punjab"},
+    "Ludhiana": {"lat": 30.9010, "lon": 75.8573, "state": "Punjab"},
+    "Jaipur": {"lat": 26.9124, "lon": 75.7873, "state": "Rajasthan"},
+    "Delhi": {"lat": 28.7041, "lon": 77.1025, "state": "Delhi"}
+}
